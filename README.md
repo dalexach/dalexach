@@ -10,13 +10,13 @@
 
 📫 How to contact me **dalexach@gmail.com** or in my social media:
 <p align="center">
-<a href="https://twitter.com/dalexach" target="blank">
+<a href="https://twitter.com/dalexach" target="_blank">
     <img src="https://img.icons8.com/clouds/100/000000/twitter.png" alt="twitter:dalexach" /></a>
-<a href="https://linkedin.com/in/dalexach" target="blank">
-    <img src="https://img.icons8.com/clouds/100/000000/linkedin.png" alt="ldinkedin:alexach"/></a>
-<a href="https://instagram.com/dalexach" target="blank">
+<a href="https://linkedin.com/in/dalexach" target="_blank">
+    <img src="https://img.icons8.com/clouds/100/000000/linkedin.png" alt="linkedin:dalexach"/></a>
+<a href="https://instagram.com/dalexach" target="_blank">
     <img src="https://img.icons8.com/clouds/100/000000/instagram-new--v1.png" alt="instagram:dalexach"/></a>
-<a href="https://www.facebook.com/dalexachg31/">
+<a href="https://www.facebook.com/dalexachg31/" target="_blank">
     <img src="https://img.icons8.com/clouds/100/000000/facebook-new.png" alt="facebook:dalexachg31"/>
 </a>
 </p>
@@ -33,11 +33,11 @@
     <img src="https://img.icons8.com/dusk/50/000000/linux.png" alt="linux" />
 </p>
 <tr>
-<td>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dalexach&layout=compact&hide=html" alt="dalexach" />
-</td>
-<td>
-<img src="https://github-readme-stats.vercel.app/api?username=dalexach&show_icons=true" alt="dalexach"/>
-</td>
+    <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dalexach&layout=compact&hide=html" alt="dalexach" />
+    </td>
+    <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=dalexach&show_icons=true" alt="dalexach"/>
+    </td>
 <tr>
 
