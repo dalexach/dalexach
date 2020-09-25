@@ -1,29 +1,36 @@
 <h1 align="center">¡Hello world!</h1>
-<h1 align='center'>I'm Daniela Chamorro</h1>
+<h2 align='center'>I'm Daniela Chamorro <img src="https://img.icons8.com/color/48/000000/github-2.png" alt="github" height="25" widht="25"/></h2>
 
 
 <p align="left">
     <img src="https://komarev.com/ghpvc/?username=dalexach" alt="dalexach" />
 </p>
 
- I am a Full Stack Engineer, Computer system Technology, and passionate about Technology, development, and self-learning, a lover of learning. I have a good understanding of software engineering topics such as algorithms, data structures, Linux, Networking, Python, Flask, C, Object-Oriented Programming(OOP), front-end development, Bash scripting, also some knowledge with hardware and networks, I am still learning every day, now starting with machine learning. 
+ I am a Full Stack Engineer, Computer system Technology, and passionate about Technology, development, and self-learning, a lover of learning. I have a good understanding of software engineering topics such as algorithms, data structures, Linux, Networking, Object-Oriented Programming(OOP), front-end development, Bash scripting, also some knowledge with hardware and networks, I am still learning every day, now starting with machine learning.
 
 📫 How to contact me **dalexach@gmail.com** or in my social media:
 <p align="center">
 <a href="https://twitter.com/dalexach" target="blank">
-    <img src="https://img.icons8.com/clouds/100/000000/twitter.png" alt="tdalexach" /></a>
+    <img src="https://img.icons8.com/clouds/100/000000/twitter.png" alt="twitter:dalexach" /></a>
 <a href="https://linkedin.com/in/dalexach" target="blank">
-    <img src="https://img.icons8.com/clouds/100/000000/linkedin.png" alt="ldalexach"/></a>
+    <img src="https://img.icons8.com/clouds/100/000000/linkedin.png" alt="ldinkedin:alexach"/></a>
 <a href="https://instagram.com/dalexach" target="blank">
-    <img src="https://img.icons8.com/clouds/100/000000/instagram-new--v1.png" alt="idalexach"/></a>
+    <img src="https://img.icons8.com/clouds/100/000000/instagram-new--v1.png" alt="instagram:dalexach"/></a>
+<a href="https://www.facebook.com/dalexachg31/">
+    <img src="https://img.icons8.com/clouds/100/000000/facebook-new.png" alt="facebook:dalexachg31"/>
+</a>
 </p>
 
 <h3 align="center">Some languages and OS</h3>
 <p align="center">
-    <img src="https://img.icons8.com/dusk/64/000000/c-programming.png" alt="C" height="40" widht="40"/>
-    <img src="https://img.icons8.com/dusk/64/000000/javascript.png" alt="JS" height="40" widht="40"/>
-    <img src="https://img.icons8.com/dusk/64/000000/linux.png" alt="linux" height="40" widht="40"/>
-    <img src="https://img.icons8.com/dusk/64/000000/python.png" alt="python" height="40" widht="40"/>
+    <img src="https://img.icons8.com/dusk/50/000000/c-programming.png" alt="C"/>
+    <img src="https://img.icons8.com/dusk/50/000000/python.png" alt="python"/>
+    <img src="https://img.icons8.com/dusk/50/000000/javascript.png" alt="JS"/>
+    <img src="https://img.icons8.com/dusk/50/000000/html-5.png" alt="HTML"/>
+    <img src="https://img.icons8.com/dusk/50/000000/css3.png" alt="css"/>
+    <img src="https://img.icons8.com/dusk/50/000000/sql.png" alt="SQL"/>
+    <img src="https://img.icons8.com/dusk/50/000000/mac-logo--v2.png" alt="ios"/>
+    <img src="https://img.icons8.com/dusk/50/000000/linux.png" alt="linux" />
 </p>
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dalexach&layout=compact&hide=html" alt="dalexach" />
