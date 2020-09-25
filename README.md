@@ -32,9 +32,12 @@
     <img src="https://img.icons8.com/dusk/50/000000/mac-logo--v2.png" alt="ios"/>
     <img src="https://img.icons8.com/dusk/50/000000/linux.png" alt="linux" />
 </p>
-
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dalexach&layout=compact&hide=html" alt="dalexach" />
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=dalexach&show_icons=true" alt="dalexach"/>
-
+<tr>
+<td>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dalexach&layout=compact&hide=html" alt="dalexach" />
+</td>
+<td>
+<img src="https://github-readme-stats.vercel.app/api?username=dalexach&show_icons=true" alt="dalexach"/>
+</td>
+<tr>
 
