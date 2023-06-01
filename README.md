@@ -6,9 +6,11 @@
     <img src="https://komarev.com/ghpvc/?username=dalexach" alt="dalexach" />
 </p>
 
- I am a Full Stack Engineer, Computer system Technology, and passionate about Technology, development, and self-learning, a lover of learning. I have a good understanding of software engineering topics such as algorithms, data structures, Linux, Networking, Object-Oriented Programming(OOP), front-end development, Bash scripting, machine learning, also some knowledge with hardware and networks, I am still learning every day, now starting with Ruby on Rails.
+ I am a Backend Developer, Computer system Technology, and passionate about Technology, development, and self-learning, a lover of learning. I have a good understanding of software engineering topics such as algorithms, data structures, Linux, Networking, Object-Oriented Programming(OOP), front-end development, Bash scripting, machine learning, also some knowledge with hardware and networks, I am still learning every day. Ruby on Rails learned, now Python with Django Rest Framework.
+ 
+ Software Engineer degree soon...
 
-📫 How to contact me **dalexach@gmail.com** or in my social media:
+📫 How to contact me **mailto:dalexach@gmail.com** or in my social media:
 <p align="center">
 <a href="https://twitter.com/dalexach" target="_blank">
     <img src="https://img.icons8.com/clouds/100/000000/twitter.png" alt="twitter:dalexach" /></a>
