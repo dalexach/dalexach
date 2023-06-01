@@ -13,7 +13,7 @@
 📫 How to contact me **<a href="mailto:dalexach@gmail.com" target="_blank">dalexach@gmail.com</a>** or in my social media:
 <p align="center">
 <a href="https://twitter.com/dalexach" target="_blank">
-    <img src="[https://img.icons8.com/clouds/100/000000/twitter.png](https://icons8.com/icon/64156/twitter-squared)" alt="twitter:dalexach" /></a>
+    <img src="https://icons8.com/icon/64156/twitter-squared" alt="twitter:dalexach" /></a>
 <a href="https://linkedin.com/in/dalexach" target="_blank">
     <img src="https://img.icons8.com/clouds/100/000000/linkedin.png" alt="linkedin:dalexach"/></a>
 <a href="https://instagram.com/dalexach" target="_blank">
@@ -26,7 +26,7 @@
 <h3 align="center">Some languages and OS</h3>
 <p align="center">
     <img src="https://img.icons8.com/dusk/50/000000/c-programming.png" alt="C"/>
-    <img src="https://img.icons8.com/dusk/50/000000/python.png" alt="python"/>
+    <img src="https://icons8.com/icon/W3gfKnMhfM6h/python" alt="python"/>
     <img src="https://img.icons8.com/dusk/50/000000/javascript.png" alt="JS"/>
     <img src="https://img.icons8.com/dusk/50/000000/html-5.png" alt="HTML"/>
     <img src="https://img.icons8.com/dusk/50/000000/css3.png" alt="css"/>
