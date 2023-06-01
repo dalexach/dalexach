@@ -10,7 +10,7 @@
  
  Software Engineer degree soon...
 
-📫 How to contact me **mailto:dalexach@gmail.com** or in my social media:
+📫 How to contact me **<a href="mailto:dalexach@gmail.com" target="_blank">dalexach@gmail.com</a>** or in my social media:
 <p align="center">
 <a href="https://twitter.com/dalexach" target="_blank">
     <img src="https://img.icons8.com/clouds/100/000000/twitter.png" alt="twitter:dalexach" /></a>
