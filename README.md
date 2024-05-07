@@ -6,14 +6,22 @@
     <img src="https://komarev.com/ghpvc/?username=dalexach" alt="dalexach" />
 </p>
 
- I am a Backend Developer, Computer system Technology, and passionate about Technology, development, and self-learning, a lover of learning. I have a good understanding of software engineering topics such as algorithms, data structures, Linux, Networking, Object-Oriented Programming(OOP), front-end development, Bash scripting, machine learning, also some knowledge with hardware and networks, I am still learning every day. Ruby on Rails learned, now Python with Django Rest Framework.
+ I am an experienced Backend Developer with a strong foundation in Software Engineering and Computer Systems Technology. I am deeply passionate about technology and software development, and I am committed to continuously expanding my skill set through self-learning.
+
+My expertise encompasses various domains of software engineering, including proficiency in algorithms, data structures, and networking. I am skilled in several programming languages and frameworks, such as Ruby on Rails, Python (Flask, Django), and JavaScript, with additional proficiency in HTML and CSS. I also have experience in Object-Oriented Programming (OOP), Bash scripting, and a growing interest in machine learning.
+
+In addition to my software development skills, I have a solid understanding of hardware and network systems, which allows me to approach problem-solving from a comprehensive perspective.
+
+I am driven by a passion for innovation and a relentless pursuit of excellence in everything I do. I believe in the importance of staying updated with the latest advancements in technology and am always eager to apply new knowledge to my work.
+
+Overall, I bring a combination of technical expertise, a commitment to learning, and a passion for innovation to any team or project I am a part of.
  
  Software Engineer degree soon...
 
 📫 How to contact me **<a href="mailto:dalexach@gmail.com" target="_blank">dalexach@gmail.com</a>** or in my social media:
 <p align="center">
 <a href="https://twitter.com/dalexach" target="_blank">
-    <img src="https://icons8.com/icon/64156/twitter-squared" alt="twitter:dalexach" /></a>
+    <img src="https://icons8.com/icon/64156/twitter-squared" alt="X:dalexach" /></a>
 <a href="https://linkedin.com/in/dalexach" target="_blank">
     <img src="https://img.icons8.com/clouds/100/000000/linkedin.png" alt="linkedin:dalexach"/></a>
 <a href="https://instagram.com/dalexach" target="_blank">
