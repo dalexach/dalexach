@@ -84,9 +84,9 @@ Ayenda Hoteles            Backend Developer             Dec 2020 – Mar 2022
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=dalexach&show_icons=true&title_color=88cafc&icon_color=edcc6f&text_color=d2ebff&bg_color=2b2c41&border_color=404066&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+<img height="160" src="https://github-readme-stats-fast.vercel.app/api?username=dalexach&show_icons=true&title_color=%2388cafc&icon_color=%23edcc6f&text_color=%23d2ebff&bg_color=%232b2c41&border_color=%23404066&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 &nbsp;&nbsp;
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dalexach&layout=compact&title_color=88cafc&text_color=d2ebff&bg_color=2b2c41&border_color=404066&hide=html" alt="Top Languages" />
+<img height="160" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=dalexach&layout=compact&title_color=%2388cafc&text_color=%23d2ebff&bg_color=%232b2c41&border_color=%23404066&hide=html" alt="Top Languages" />
 
 </div>
 
